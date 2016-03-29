@@ -1,0 +1,28 @@
+{
+  "author": "richard munroe",
+  "bugs": "https://github.com/rimunroe/none-package-with-left-pad/issues",
+  "contributors": [
+    {
+      "name": "richard munroe",
+      "email": "rimunroe@gmail.com",
+      "url": "https://github.com/rimunroe"
+    }
+  ],
+  "dependencies": {
+    "left-pad": "1.0.1"
+  },
+  "description": "",
+  "engines": {
+    "node": "*"
+  },
+  "homepage": "https://github.com/rimunroe/none-package-with-left-pad",
+  "keywords": [],
+  "license": "ISC",
+  "main": "./node_modules/left-pad/index.js",
+  "name": "none-package-with-left-pad",
+  "repository": {
+    "type": "git",
+    "url": "rimunroe/none-package-with-left-pad"
+  },
+  "version": "1.0.0"
+}
